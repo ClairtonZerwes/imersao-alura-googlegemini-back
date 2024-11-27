@@ -2,11 +2,13 @@
 
 Este projeto backend em Node.js permite aos usuários fazer upload de imagens e gerar uma breve descrição de cada imagem utilizando o serviço Gemini do Google.
 
+* **Utiliza:** O MongoDB Atlas na nuvem Google Cloud para gerenciar de forma eficiente o armazenamento e recuperação de dados, oferecendo escalabilidade automática e alta disponibilidade.
+
 ## Funcionalidades
 
 * **Upload de imagens:** Permite aos usuários enviar imagens para o servidor.
 * **Geração de descrições:** Utiliza o serviço Gemini para criar descrições textuais das imagens.
-* **Operações CRUD em posts:** Cria, lê, atualiza e exclui posts (criando, lendo, atualizando e deletando registros).
+* **Operações CRUD em posts:** Cria, lê, atualiza e exclui posts (criando, lendo, atualizando e deletando(in dev) registros).
 
 ## Dependências
 
